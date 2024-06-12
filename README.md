@@ -15,6 +15,10 @@
    *casting
    *gitHub
    *Write pseudocodes
+   *HTML & CSS
+   *SQL
+   *SQLite
+   *Django
   
 - 💬 Some of my skills are: ***good communication, good problem solving, quick learning, enthusiastic, creative and good listening***
   
