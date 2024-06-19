@@ -10,14 +10,23 @@
 - 🤔 I’m still learning all about **codification** because it's my _second week_
   
 - 🫡 I've learned how to use:
-   *if else statment
+  
+   *if else statement
+  
    *while loop
+  
    *casting
+  
    *gitHub
+  
    *Write pseudocodes
+  
    *HTML & CSS
+  
    *SQL
+  
    *SQLite
+  
    *Django
   
 - 💬 Some of my skills are: ***good communication, good problem solving, quick learning, enthusiastic, creative and good listening***
